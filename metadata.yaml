@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8350
     wikipedia: http://en.wikipedia.org/wiki/Charles_Isaac_Elton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18938#The-Great-Book-Collectors
 gutenberg_issued: '2006-07-29'
 gutenberg_type: Text
 identifiers:
